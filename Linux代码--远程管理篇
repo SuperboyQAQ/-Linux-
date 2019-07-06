@@ -1,0 +1,8 @@
+shutdown (关机/重启计算机)
+    shutdown        (不指定参数，默认1分钟之后关闭电脑)
+    shutdown now    (现在关闭电脑)
+    shutdown -r now (现在重启电脑)
+    shutdown -c     (撤销请求)
+ifconfig     (configure a network interface 查看/配置计算机当前的网卡配置信息)
+ping ip地址  (ping 检测到目标ip地址的连接是否正常)
+ 
